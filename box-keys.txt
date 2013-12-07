@@ -1,0 +1,10 @@
+client_id:0gd3ftzthjbr0zu0lsseh8lgp16rwmg2
+client_secret:J2OW2LYQsiNIXd7QEwUxfIE9hMZR97PK
+
+box apps url https://app.box.com/developers/services
+
+
+files
+https://app.box.com/shared/static/s4fl1gae7yc2c1w8xq5c.mp4
+https://app.box.com/shared/static/sdim2dukgb8v6hz9yyk6.mp4
+
